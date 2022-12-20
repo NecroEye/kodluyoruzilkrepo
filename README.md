@@ -12,5 +12,8 @@ https://github.com/NecroEye/kodluyoruzilkrepo.git
 ![30476529](https://user-images.githubusercontent.com/45388123/208701837-34c3d195-a0d8-4a38-8502-5d87fb0697ba.png)
 
 
+## Contributing
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
 ## License
 MIT
